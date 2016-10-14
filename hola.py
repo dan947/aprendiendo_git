@@ -1,3 +1,3 @@
 for i in range(10):
-    print "hola mundo"
+    print "adios mundo cruel"
     print i
